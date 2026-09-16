@@ -1,0 +1,35 @@
+# dependencies
+node_modules/
+
+# the ONE real secret: the Firebase service-account key used by scripts/export.js
+# never commit this. If it ever lands on GitHub, delete the key in the Google Cloud console.
+*service-account*.json
+serviceAccountKey.json
+firebase-service-account.json
+.env
+
+# Firebase CLI local state
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+*-debug.log
+
+# test output
+test-results/
+playwright-report/
+playwright/.cache/
+
+# exported data: the CSVs are anonymous and meant to be committed (see docs/student-guide.md),
+# except the identifier mapping, which links anonymous ids to Prolific ids.
+identifiers.csv
+data/raw/**/manual/
+
+# OS / editor
+.DS_Store
+.Rhistory
+.Rproj.user/
+*.Rproj
+
+# agent worktrees
+.claude/worktrees/
