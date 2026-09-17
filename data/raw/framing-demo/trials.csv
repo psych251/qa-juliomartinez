@@ -1,0 +1,408 @@
+participant_id,trial_index,task,condition,trial_type,rt,response,time_elapsed,stimulus,plugin_version,experiment_id,consented,view_history,choice,rt_key_duration,word,is_word,correct,timed_out,question_order
+560e5qxMVbhdEwmmbuPevb6nSXA3,0,consent,loss,html-button-response,4548,0,4553,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,1,instructions,loss,instructions,2185,,6741,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1391},{""page_index"":1,""viewing_time"":794}]",,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,2,demographics,loss,survey,41552,"{""gender"":""Man"",""native_english"":true,""age"":34}",48325,,4.0.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,3,framing,loss,html-button-response,1316,1,49642,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 400 people will die.</li>
+          <li>If Program B is adopted, there is a one-third probability that nobody will die, and a two-thirds probability that 600 people will die.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,4,instructions,loss,instructions,943,,50587,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":943}]",,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,5,fixation,loss,html-keyboard-response,,,51090,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,6,lexical_decision,loss,html-keyboard-response,849,f,51941,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,7,fixation,loss,html-keyboard-response,,,52443,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,8,lexical_decision,loss,html-keyboard-response,353,f,52798,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,9,fixation,loss,html-keyboard-response,,,53300,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,10,lexical_decision,loss,html-keyboard-response,426,f,53728,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,11,fixation,loss,html-keyboard-response,,,54230,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,12,lexical_decision,loss,html-keyboard-response,350,f,54582,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,false,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,13,fixation,loss,html-keyboard-response,,,55085,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,14,lexical_decision,loss,html-keyboard-response,394,f,55481,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,15,fixation,loss,html-keyboard-response,,,55984,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,16,lexical_decision,loss,html-keyboard-response,321,f,56307,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,17,fixation,loss,html-keyboard-response,,,56809,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,18,lexical_decision,loss,html-keyboard-response,367,f,57177,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,false,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,19,fixation,loss,html-keyboard-response,,,57679,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,20,lexical_decision,loss,html-keyboard-response,381,f,58063,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,false,false,
+560e5qxMVbhdEwmmbuPevb6nSXA3,21,feedback_likert,loss,survey-likert,3566,"{""instructions_clear"":4}",61632,,2.2.0,framing-demo,,,,,,,,,[0]
+560e5qxMVbhdEwmmbuPevb6nSXA3,22,feedback_text,loss,survey-text,1913,"{""comments"":""sddfsdfsf""}",63551,,2.1.1,framing-demo,,,,,,,,,
+560e5qxMVbhdEwmmbuPevb6nSXA3,23,debrief,loss,html-button-response,1089,0,64642,"
+      <h2>Debrief</h2>
+      <p>Thank you. In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,0,consent,loss,html-button-response,1945,0,1952,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,1,instructions,loss,instructions,2321,,4276,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1240},{""page_index"":1,""viewing_time"":1081}]",,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,2,demographics,loss,survey,8216,"{""age"":68,""gender"":""Woman"",""native_english"":true}",12533,,4.0.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,3,framing,loss,html-button-response,8690,0,21224,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 400 people will die.</li>
+          <li>If Program B is adopted, there is a one-third probability that nobody will die, and a two-thirds probability that 600 people will die.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,certain,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,4,instructions,loss,instructions,1079,,22304,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1079}]",,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,5,fixation,loss,html-keyboard-response,,,22807,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,6,lexical_decision,loss,html-keyboard-response,1495,f,24305,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,7,fixation,loss,html-keyboard-response,,,24808,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,8,lexical_decision,loss,html-keyboard-response,861,f,25670,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,9,fixation,loss,html-keyboard-response,,,26172,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,10,lexical_decision,loss,html-keyboard-response,891,j,27065,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,11,fixation,loss,html-keyboard-response,,,27568,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,12,lexical_decision,loss,html-keyboard-response,846,j,28415,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,13,fixation,loss,html-keyboard-response,,,28918,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,14,lexical_decision,loss,html-keyboard-response,741,f,29660,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,15,fixation,loss,html-keyboard-response,,,30162,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,16,lexical_decision,loss,html-keyboard-response,831,j,30995,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,17,fixation,loss,html-keyboard-response,,,31497,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,18,lexical_decision,loss,html-keyboard-response,666,f,32165,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,19,fixation,loss,html-keyboard-response,,,32666,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,20,lexical_decision,loss,html-keyboard-response,726,j,33394,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,true,false,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,21,feedback_likert,loss,survey-likert,2875,"{""instructions_clear"":3}",36273,,2.2.0,framing-demo,,,,,,,,,[0]
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,22,feedback_text,loss,survey-text,8828,"{""comments"":""no comments on my end!\n""}",45106,,2.1.1,framing-demo,,,,,,,,,
+GmMoPM9FQmhSHfeAOxwjQOUsiFY2,23,debrief,loss,html-button-response,987,0,46094,"
+      <h2>Debrief</h2>
+      <p>Muchas gracias senor! In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,0,consent,gain,html-button-response,1609,0,1613,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,1,instructions,gain,instructions,1919,,3531,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":928},{""page_index"":1,""viewing_time"":990}]",,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,2,demographics,gain,survey,6211,"{""age"":32,""native_english"":true,""gender"":null}",9773,,4.0.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,3,framing,gain,html-button-response,1460,1,11233,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 200 people will be saved.</li>
+          <li>If Program B is adopted, there is a one-third probability that 600 people will be saved, and a two-thirds probability that no people will be saved.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,4,instructions,gain,instructions,4166,,15398,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":4166}]",,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,5,fixation,gain,html-keyboard-response,,,15900,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,6,lexical_decision,gain,html-keyboard-response,671,f,16574,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,7,fixation,gain,html-keyboard-response,,,17075,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,8,lexical_decision,gain,html-keyboard-response,724,f,17802,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,9,fixation,gain,html-keyboard-response,,,18304,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,10,lexical_decision,gain,html-keyboard-response,907,f,19212,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,11,fixation,gain,html-keyboard-response,,,19713,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,12,lexical_decision,gain,html-keyboard-response,786,j,20501,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,13,fixation,gain,html-keyboard-response,,,21002,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,14,lexical_decision,gain,html-keyboard-response,1116,j,22120,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,15,fixation,gain,html-keyboard-response,,,22623,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,16,lexical_decision,gain,html-keyboard-response,934,j,23559,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,17,fixation,gain,html-keyboard-response,,,24061,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,18,lexical_decision,gain,html-keyboard-response,741,f,24803,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,19,fixation,gain,html-keyboard-response,,,25305,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,20,lexical_decision,gain,html-keyboard-response,937,j,26244,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,true,false,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,21,feedback_likert,gain,survey-likert,3443,"{""instructions_clear"":3}",29689,,2.2.0,framing-demo,,,,,,,,,[0]
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,22,feedback_text,gain,survey-text,7075,"{""comments"":""No comments!""}",36768,,2.1.1,framing-demo,,,,,,,,,
+MMP0dS4hSpYmmuJ1TW5VxRDyuGh2,23,debrief,gain,html-button-response,1241,0,38010,"
+      <h2>Debrief</h2>
+      <p>Muchas gracias senor! In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,0,consent,gain,html-button-response,1584,0,1590,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,1,instructions,gain,instructions,1688,,3280,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":938},{""page_index"":1,""viewing_time"":749}]",,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,2,demographics,gain,survey,6423,"{""gender"":""Man"",""age"":34,""native_english"":true}",9737,,4.0.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,3,framing,gain,html-button-response,983,1,10721,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 200 people will be saved.</li>
+          <li>If Program B is adopted, there is a one-third probability that 600 people will be saved, and a two-thirds probability that no people will be saved.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,4,instructions,gain,instructions,1475,,12198,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1475}]",,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,5,fixation,gain,html-keyboard-response,,,12700,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,6,lexical_decision,gain,html-keyboard-response,954,f,13655,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,7,fixation,gain,html-keyboard-response,,,14157,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,8,lexical_decision,gain,html-keyboard-response,182,f,14340,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,9,fixation,gain,html-keyboard-response,,,14842,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,10,lexical_decision,gain,html-keyboard-response,262,f,15105,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,false,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,11,fixation,gain,html-keyboard-response,,,15607,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,12,lexical_decision,gain,html-keyboard-response,519,j,16127,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,true,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,13,fixation,gain,html-keyboard-response,,,16629,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,14,lexical_decision,gain,html-keyboard-response,230,f,16861,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,15,fixation,gain,html-keyboard-response,,,17363,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,16,lexical_decision,gain,html-keyboard-response,186,f,17550,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,false,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,17,fixation,gain,html-keyboard-response,,,18052,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,18,lexical_decision,gain,html-keyboard-response,232,f,18285,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,19,fixation,gain,html-keyboard-response,,,18787,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,20,lexical_decision,gain,html-keyboard-response,204,f,18992,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,false,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,21,feedback_likert,gain,survey-likert,2047,"{""instructions_clear"":4}",21041,,2.2.0,framing-demo,,,,,,,,,[0]
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,22,feedback_text,gain,survey-text,2055,"{""comments"":""asdefraesfdeadf""}",23099,,2.1.1,framing-demo,,,,,,,,,
+R5MwnMpQk1cN4pIAGWdufiRwOzl1,23,debrief,gain,html-button-response,987,0,24088,"
+      <h2>Debrief</h2>
+      <p>Thank you. In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,0,consent,loss,html-button-response,1906,0,1910,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,1,instructions,loss,instructions,2037,,3949,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1259},{""page_index"":1,""viewing_time"":778}]",,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,2,demographics,loss,survey,6782,"{""gender"":""Man"",""age"":22,""native_english"":true}",10768,,4.0.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,3,framing,loss,html-button-response,1114,1,11885,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 400 people will die.</li>
+          <li>If Program B is adopted, there is a one-third probability that nobody will die, and a two-thirds probability that 600 people will die.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,4,instructions,loss,instructions,988,,12874,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":988}]",,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,5,fixation,loss,html-keyboard-response,,,13377,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,6,lexical_decision,loss,html-keyboard-response,1241,f,14620,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,false,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,7,fixation,loss,html-keyboard-response,,,15123,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,8,lexical_decision,loss,html-keyboard-response,215,f,15339,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,9,fixation,loss,html-keyboard-response,,,15841,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,10,lexical_decision,loss,html-keyboard-response,336,f,16180,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,false,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,11,fixation,loss,html-keyboard-response,,,16682,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,12,lexical_decision,loss,html-keyboard-response,306,f,16991,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,13,fixation,loss,html-keyboard-response,,,17492,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,14,lexical_decision,loss,html-keyboard-response,335,f,17830,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,15,fixation,loss,html-keyboard-response,,,18332,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,16,lexical_decision,loss,html-keyboard-response,245,f,18580,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,false,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,17,fixation,loss,html-keyboard-response,,,19082,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,18,lexical_decision,loss,html-keyboard-response,246,f,19329,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,19,fixation,loss,html-keyboard-response,,,19831,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,20,lexical_decision,loss,html-keyboard-response,217,f,20050,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,21,feedback_likert,loss,survey-likert,2844,"{""instructions_clear"":1}",22897,,2.2.0,framing-demo,,,,,,,,,[0]
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,22,feedback_text,loss,survey-text,1702,"{""comments"":""dyfed""}",24604,,2.1.1,framing-demo,,,,,,,,,
+eCvsifq5Q2aLIQ6mm1bhL1l0BJD2,23,debrief,loss,html-button-response,1470,0,26075,"
+      <h2>Debrief</h2>
+      <p>Thank you. In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,0,consent,loss,html-button-response,2259,0,2272,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,1,instructions,loss,instructions,1499,,3774,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":835},{""page_index"":1,""viewing_time"":664}]",,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,2,demographics,gain,survey,7298,"{""gender"":""Man"",""native_english"":true,""age"":23}",16568,,4.0.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,3,framing,gain,html-button-response,4879,1,21450,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 200 people will be saved.</li>
+          <li>If Program B is adopted, there is a one-third probability that 600 people will be saved, and a two-thirds probability that no people will be saved.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,4,instructions,gain,instructions,996,,22449,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":996}]",,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,5,fixation,gain,html-keyboard-response,,,22953,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,6,lexical_decision,gain,html-keyboard-response,,,25958,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,7,fixation,gain,html-keyboard-response,,,26463,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,8,lexical_decision,gain,html-keyboard-response,,,29470,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,9,fixation,gain,html-keyboard-response,,,29975,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,10,lexical_decision,gain,html-keyboard-response,,,32979,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,11,fixation,gain,html-keyboard-response,,,33484,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,12,lexical_decision,gain,html-keyboard-response,,,36488,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,13,fixation,gain,html-keyboard-response,,,36992,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,14,lexical_decision,gain,html-keyboard-response,,,39997,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,15,fixation,gain,html-keyboard-response,,,40503,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,16,lexical_decision,gain,html-keyboard-response,,,43511,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,17,fixation,loss,html-keyboard-response,,,50743,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,18,lexical_decision,loss,html-keyboard-response,,,53747,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,false,true,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,19,fixation,loss,html-keyboard-response,,,54254,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+m2kUN4wMYhPWm6ERdS3lf1UiNk52,20,lexical_decision,loss,html-keyboard-response,,,57259,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,true,
+oCLO68oeekeDMSOHwWS5368dYtf2,0,consent,gain,html-button-response,6034,0,6040,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,1,instructions,gain,instructions,1783,,7825,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1077},{""page_index"":1,""viewing_time"":706}]",,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,2,demographics,gain,survey,6478,"{""age"":32,""gender"":""Non-binary"",""native_english"":true}",14341,,4.0.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,3,framing,gain,html-button-response,10328,0,24670,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 200 people will be saved.</li>
+          <li>If Program B is adopted, there is a one-third probability that 600 people will be saved, and a two-thirds probability that no people will be saved.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,certain,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,4,instructions,gain,instructions,1110,,25782,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1110}]",,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,5,fixation,gain,html-keyboard-response,,,26285,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,6,lexical_decision,gain,html-keyboard-response,1465,j,27752,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,7,fixation,gain,html-keyboard-response,,,28255,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,8,lexical_decision,gain,html-keyboard-response,875,j,29131,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,9,fixation,gain,html-keyboard-response,,,29634,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,10,lexical_decision,gain,html-keyboard-response,650,f,30285,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,11,fixation,gain,html-keyboard-response,,,30787,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,12,lexical_decision,gain,html-keyboard-response,802,j,31591,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,13,fixation,gain,html-keyboard-response,,,32094,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,14,lexical_decision,gain,html-keyboard-response,635,f,32731,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,15,fixation,gain,html-keyboard-response,,,33234,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,16,lexical_decision,gain,html-keyboard-response,680,f,33915,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,17,fixation,gain,html-keyboard-response,,,34418,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,18,lexical_decision,gain,html-keyboard-response,966,j,35386,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,19,fixation,gain,html-keyboard-response,,,35888,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,20,lexical_decision,gain,html-keyboard-response,607,f,36496,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+oCLO68oeekeDMSOHwWS5368dYtf2,21,feedback_likert,gain,survey-likert,2693,"{""instructions_clear"":1}",39192,,2.2.0,framing-demo,,,,,,,,,[0]
+oCLO68oeekeDMSOHwWS5368dYtf2,22,feedback_text,gain,survey-text,235,"{""comments"":""""}",39433,,2.1.1,framing-demo,,,,,,,,,
+oCLO68oeekeDMSOHwWS5368dYtf2,23,debrief,gain,html-button-response,1240,0,40675,"
+      <h2>Debrief</h2>
+      <p>Muchas gracias senor! In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,0,consent,gain,html-button-response,2033,0,2043,"
+      <div class=""consent"">
+        <h2>Consent</h2>
+        <p>By answering the following questions, you are participating in a study being performed by
+        cognitive scientists in the Stanford Department of Psychology. If you have questions about
+        this research, please contact us at <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+        You must be at least 18 years old to participate. Your participation in this research is
+        voluntary. You may decline to answer any or all of the following questions. You may decline
+        further participation, at any time, without adverse consequences. Your anonymity is assured;
+        the researchers who have requested your participation will not receive any personal
+        information about you.</p>
+      </div>",2.1.0,framing-demo,true,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,1,instructions,gain,instructions,2013,,4060,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1153},{""page_index"":1,""viewing_time"":860}]",,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,2,demographics,gain,survey,5383,"{""gender"":""Man"",""native_english"":true,""age"":null}",9478,,4.0.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,3,framing,gain,html-button-response,1475,1,10955,"
+      <div class=""framing"">
+        <p>Imagine that the country is preparing for the outbreak of an unusual disease, which is
+        expected to kill 600 people. Two alternative programs to combat the disease have been
+        proposed. Assume that the exact scientific estimates of the consequences of the programs
+        are as follows:</p>
+        <ul class=""programs"">
+          <li>If Program A is adopted, 200 people will be saved.</li>
+          <li>If Program B is adopted, there is a one-third probability that 600 people will be saved, and a two-thirds probability that no people will be saved.</li>
+        </ul>
+        <p>Which of the two programs would you favor?</p>
+      </div>",2.1.0,framing-demo,,,risky,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,4,instructions,gain,instructions,1561,,12517,,2.1.0,framing-demo,,"[{""page_index"":0,""viewing_time"":1561}]",,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,5,fixation,gain,html-keyboard-response,,,13020,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,6,lexical_decision,gain,html-keyboard-response,1103,f,14125,"<div class=""stimulus"">SILVER</div>",2.2.0,framing-demo,,,,,SILVER,true,true,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,7,fixation,gain,html-keyboard-response,,,14628,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,8,lexical_decision,gain,html-keyboard-response,348,f,14978,"<div class=""stimulus"">TOSKIN</div>",2.2.0,framing-demo,,,,,TOSKIN,false,false,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,9,fixation,gain,html-keyboard-response,,,15480,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,10,lexical_decision,gain,html-keyboard-response,351,f,15833,"<div class=""stimulus"">GARDEN</div>",2.2.0,framing-demo,,,,,GARDEN,true,true,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,11,fixation,gain,html-keyboard-response,,,16335,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,12,lexical_decision,gain,html-keyboard-response,337,f,16673,"<div class=""stimulus"">BRENDLE</div>",2.2.0,framing-demo,,,,,BRENDLE,false,false,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,13,fixation,gain,html-keyboard-response,,,17175,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,14,lexical_decision,gain,html-keyboard-response,351,f,17528,"<div class=""stimulus"">PLANET</div>",2.2.0,framing-demo,,,,,PLANET,true,true,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,15,fixation,gain,html-keyboard-response,,,18031,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,16,lexical_decision,gain,html-keyboard-response,471,f,18503,"<div class=""stimulus"">FLIRP</div>",2.2.0,framing-demo,,,,,FLIRP,false,false,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,17,fixation,gain,html-keyboard-response,,,19005,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,18,lexical_decision,gain,html-keyboard-response,366,f,19373,"<div class=""stimulus"">MANTOR</div>",2.2.0,framing-demo,,,,,MANTOR,false,false,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,19,fixation,gain,html-keyboard-response,,,19875,"<div class=""fixation"">+</div>",2.2.0,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,20,lexical_decision,gain,html-keyboard-response,351,f,20228,"<div class=""stimulus"">TABLE</div>",2.2.0,framing-demo,,,,,TABLE,true,true,false,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,21,feedback_likert,gain,survey-likert,1647,"{""instructions_clear"":""""}",21877,,2.2.0,framing-demo,,,,,,,,,[0]
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,22,feedback_text,gain,survey-text,3089,"{""comments"":""edfdfdf""}",24971,,2.1.1,framing-demo,,,,,,,,,
+wNjkDkPiiiWWcwdVo5IdjYH0Co13,23,debrief,gain,html-button-response,1121,0,26093,"
+      <h2>Debrief</h2>
+      <p>Thank you. In this study we tested whether describing the same outcomes as lives saved or
+      as lives lost changes which program people choose. Different participants saw different
+      wordings. If you have questions about this research, contact
+      <a href=""mailto:stanfordpsych251@gmail.com"">stanfordpsych251@gmail.com</a>.
+      Press the button to save your responses and finish.</p>",2.1.0,framing-demo,,,,,,,,,

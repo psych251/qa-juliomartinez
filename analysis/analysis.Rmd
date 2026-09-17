@@ -101,8 +101,9 @@ if (all(dim(tab) == c(2, 2))) chisq.test(tab)
 # program (loss minus gain). Compare this interval to the original effect, not just the p value.
 risky <- framing |> group_by(condition) |> summarise(risky = sum(choice == "risky"), n = n(), .groups = "drop")
 if (nrow(risky) == 2 && all(risky$n > 0)) {
-  pt <- prop.test(x = risky$risky[risky$condition == c("loss", "gain")],
-                  n = risky$n[risky$condition == c("loss", "gain")], correct = FALSE)
+  pt <- prop.test(x = c(risky$risky[risky$condition == "loss"], risky$risky[risky$condition == "gain"]),
+                n = c(risky$n[risky$condition == "loss"], risky$n[risky$condition == "gain"]),
+                correct = FALSE)
   tibble(estimate_loss_minus_gain = diff(rev(pt$estimate)), ci_low = pt$conf.int[1], ci_high = pt$conf.int[2])
 }
 
