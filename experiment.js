@@ -290,7 +290,7 @@ const CHUNK_SIZE = Number(URL_PARAMS.get("chunk_size")) || EXPERIMENT.chunk_size
     type: jsPsychHtmlButtonResponse,
     stimulus: `
       <h2>Debrief</h2>
-      <p>Thank you. In this study we tested whether describing the same outcomes as lives saved or
+      <p>Muchas gracias senor! In this study we tested whether describing the same outcomes as lives saved or
       as lives lost changes which program people choose. Different participants saw different
       wordings. If you have questions about this research, contact
       <a href="mailto:${EXPERIMENT.contact_email}">${EXPERIMENT.contact_email}</a>.
